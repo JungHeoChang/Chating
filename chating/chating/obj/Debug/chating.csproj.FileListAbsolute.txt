@@ -1,0 +1,11 @@
+C:\Users\happy\source\repos\chating\chating\bin\Debug\chating.exe.config
+C:\Users\happy\source\repos\chating\chating\bin\Debug\chating.exe
+C:\Users\happy\source\repos\chating\chating\bin\Debug\chating.pdb
+C:\Users\happy\source\repos\chating\chating\obj\Debug\chating.csprojAssemblyReference.cache
+C:\Users\happy\source\repos\chating\chating\obj\Debug\chating.Properties.Resources.resources
+C:\Users\happy\source\repos\chating\chating\obj\Debug\chating.csproj.GenerateResource.cache
+C:\Users\happy\source\repos\chating\chating\obj\Debug\chating.csproj.CoreCompileInputs.cache
+C:\Users\happy\source\repos\chating\chating\obj\Debug\chating.exe
+C:\Users\happy\source\repos\chating\chating\obj\Debug\chating.pdb
+C:\Users\happy\source\repos\chating\chating\obj\Debug\chating.Main.resources
+C:\Users\happy\source\repos\chating\chating\obj\Debug\chating.login.resources

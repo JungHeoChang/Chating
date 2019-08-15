@@ -1,0 +1,38 @@
+public Update()
+관리자 권한이 아닐 경우 관리자 권한으로 상승
+
+private void ok_button_Click(object sender, EventArgs e)
+업데이트 실행
+
+private void cancel_button_Click(object sender, EventArgs e)
+업데이트 취소
+
+public static bool IsAdministrator()
+관리자 권하 여부 확인
+
+public void Updating()
+다운로드 할 파일 주소와 경로 설정
+
+public void File_Create()
+임시 폴더 생성
+
+public void Folder_Delete(string path)
+임시 폴더 삭제
+
+public void File_Recv(string url, string path)
+웹서버에서 파일 다운로드
+
+public void Extract_ZIP_File(string zipFilePath, string backupFolder)
+다운로드받은 압축 파일을 압축 풀기
+
+public void Start_File()
+Updating.exe 실행 함수
+
+private void Update_FormClosed(object sender, FormClosedEventArgs e)
+Update 폼 종료 후 Updating.exe 실행
+
+private void FileDownloadProgressChanged(object sender, DownloadProgressChangedEventArgs e)
+파일 다운로드 속도를 프로그레스 바와 kb's/로 표시
+
+private void FileDownloadCompleted(object sender, AsyncCompletedEventArgs e)
+파일 다운로드가 완료되었을 경우 실행

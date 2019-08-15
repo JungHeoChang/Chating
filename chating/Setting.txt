@@ -1,0 +1,17 @@
+public Setting()
+설정에서 체크 표시를 할 수 있도록 한다.
+
+private static extern long WritePrivateProfileString(string, string, string, string)
+ini파일 작성
+
+private void tray_check_Click(object sender, EventArgs e)
+최소화(트레이) 설정 클릭시 내문서에 config.ini 값을 바꾼다.
+
+private void Ok_button_Click(object sender, EventArgs e)
+Setting 폼을 끈다.
+
+private void notify_check_CheckedChanged(object sender, EventArgs e)
+알람 켜기 설정을 클릭시 내문서에 config.ini 값을 바꾼다.
+
+private void notify_msg_check_CheckedChanged(object sender, EventArgs e)
+알람 내용 감추기를 클릭시 내문서에 config.ini 값을 바꾼다.

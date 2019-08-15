@@ -1,0 +1,67 @@
+C:\Users\happy\source\repos\chating\chating\bin\Release\chating.exe.config
+C:\Users\happy\source\repos\chating\chating\bin\Release\chating.exe
+C:\Users\happy\source\repos\chating\chating\bin\Release\chating.pdb
+C:\Users\happy\source\repos\chating\chating\obj\Release\chating.Main.resources
+C:\Users\happy\source\repos\chating\chating\obj\Release\chating.login.resources
+C:\Users\happy\source\repos\chating\chating\obj\Release\chating.Properties.Resources.resources
+C:\Users\happy\source\repos\chating\chating\obj\Release\chating.csproj.GenerateResource.cache
+C:\Users\happy\source\repos\chating\chating\obj\Release\chating.csproj.CoreCompileInputs.cache
+C:\Users\happy\source\repos\chating\chating\obj\Release\chating.exe
+C:\Users\happy\source\repos\chating\chating\obj\Release\chating.pdb
+C:\Users\happy\source\repos\chating\chating\obj\Release\chating.csprojAssemblyReference.cache
+E:\chating\chating\bin\Release\chating.exe.config
+E:\chating\chating\bin\Release\chating.exe
+E:\chating\chating\bin\Release\chating.pdb
+E:\chating\chating\bin\Release\System.IO.Compression.dll
+E:\chating\chating\obj\Release\chating.csprojAssemblyReference.cache
+E:\chating\chating\obj\Release\chating.Main.resources
+E:\chating\chating\obj\Release\chating.login.resources
+E:\chating\chating\obj\Release\chating.Properties.Resources.resources
+E:\chating\chating\obj\Release\chating.csproj.GenerateResource.cache
+E:\chating\chating\obj\Release\chating.csproj.CoreCompileInputs.cache
+E:\chating\chating\obj\Release\chating.csproj.CopyComplete
+E:\chating\chating\obj\Release\chating.exe
+E:\chating\chating\obj\Release\chating.pdb
+C:\Users\Jeong Heo Chang\Desktop\chating\chating\bin\Release\chating.exe.config
+C:\Users\Jeong Heo Chang\Desktop\chating\chating\bin\Release\chating.exe
+C:\Users\Jeong Heo Chang\Desktop\chating\chating\bin\Release\chating.pdb
+C:\Users\Jeong Heo Chang\Desktop\chating\chating\bin\Release\System.IO.Compression.dll
+C:\Users\Jeong Heo Chang\Desktop\chating\chating\obj\Release\chating.csprojAssemblyReference.cache
+C:\Users\Jeong Heo Chang\Desktop\chating\chating\obj\Release\chating.Main.resources
+C:\Users\Jeong Heo Chang\Desktop\chating\chating\obj\Release\chating.login.resources
+C:\Users\Jeong Heo Chang\Desktop\chating\chating\obj\Release\chating.Properties.Resources.resources
+C:\Users\Jeong Heo Chang\Desktop\chating\chating\obj\Release\chating.csproj.GenerateResource.cache
+C:\Users\Jeong Heo Chang\Desktop\chating\chating\obj\Release\chating.csproj.CoreCompileInputs.cache
+C:\Users\Jeong Heo Chang\Desktop\chating\chating\obj\Release\chating.csproj.CopyComplete
+C:\Users\Jeong Heo Chang\Desktop\chating\chating\obj\Release\chating.exe
+C:\Users\Jeong Heo Chang\Desktop\chating\chating\obj\Release\chating.pdb
+C:\Users\happy\Desktop\chating\chating\bin\Release\chating.exe.config
+C:\Users\happy\Desktop\chating\chating\bin\Release\chating.exe
+C:\Users\happy\Desktop\chating\chating\bin\Release\chating.pdb
+C:\Users\happy\Desktop\chating\chating\bin\Release\System.IO.Compression.dll
+C:\Users\happy\Desktop\chating\chating\obj\Release\chating.Main.resources
+C:\Users\happy\Desktop\chating\chating\obj\Release\chating.login.resources
+C:\Users\happy\Desktop\chating\chating\obj\Release\chating.Properties.Resources.resources
+C:\Users\happy\Desktop\chating\chating\obj\Release\chating.csproj.GenerateResource.cache
+C:\Users\happy\Desktop\chating\chating\obj\Release\chating.csproj.CoreCompileInputs.cache
+C:\Users\happy\Desktop\chating\chating\obj\Release\chating.csproj.CopyComplete
+C:\Users\happy\Desktop\chating\chating\obj\Release\chating.exe
+C:\Users\happy\Desktop\chating\chating\obj\Release\chating.pdb
+C:\Users\happy\Desktop\chating\chating\obj\Release\chating.Setting.resources
+C:\Users\happy\Desktop\chating\chating\obj\Release\chating.Notifications.resources
+C:\Users\happy\Desktop\chating\chating\obj\Release\chating.csprojAssemblyReference.cache
+C:\Users\happy\Desktop\채팅\chating\chating\bin\Release\chating.exe.config
+C:\Users\happy\Desktop\채팅\chating\chating\bin\Release\chating.exe
+C:\Users\happy\Desktop\채팅\chating\chating\bin\Release\chating.pdb
+C:\Users\happy\Desktop\채팅\chating\chating\bin\Release\System.IO.Compression.dll
+C:\Users\happy\Desktop\채팅\chating\chating\obj\Release\chating.csprojAssemblyReference.cache
+C:\Users\happy\Desktop\채팅\chating\chating\obj\Release\chating.Main.resources
+C:\Users\happy\Desktop\채팅\chating\chating\obj\Release\chating.login.resources
+C:\Users\happy\Desktop\채팅\chating\chating\obj\Release\chating.Notifications.resources
+C:\Users\happy\Desktop\채팅\chating\chating\obj\Release\chating.Setting.resources
+C:\Users\happy\Desktop\채팅\chating\chating\obj\Release\chating.Properties.Resources.resources
+C:\Users\happy\Desktop\채팅\chating\chating\obj\Release\chating.csproj.GenerateResource.cache
+C:\Users\happy\Desktop\채팅\chating\chating\obj\Release\chating.csproj.CoreCompileInputs.cache
+C:\Users\happy\Desktop\채팅\chating\chating\obj\Release\chating.csproj.CopyComplete
+C:\Users\happy\Desktop\채팅\chating\chating\obj\Release\chating.exe
+C:\Users\happy\Desktop\채팅\chating\chating\obj\Release\chating.pdb

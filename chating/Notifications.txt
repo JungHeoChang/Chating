@@ -1,0 +1,17 @@
+public Notifications(Main _main, Setting _setting)
+알람 창 크기 조절 및 표시, 다른 폼의 정보 가져오기
+
+public void Screen_Fix()
+현재 사용자의 디스플레이 해상도를 기준으로 알람창의 크기를 적절하게 바꾼다.
+
+public void Notification()
+알람 내용 감추기가 켜져있으면 보낸 이와 내용을 감추고 그렇지 않으면 그대로 보여준다.
+
+private void answer_Click()
+답장 버튼 클릭시 채팅 창을 활성화 시킨다.
+
+private void identify_Click()
+확인 버튼 클릭시 종료시킨다.
+
+public void Notify_div(int, int)
+디스플레이 해상도에 따른 적절한 크기로 자르기 위해 x, y 값을 지정 

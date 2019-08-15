@@ -1,0 +1,32 @@
+public Updating()
+관리자 권한으로 실행되지 않았을 경우 관리자 권한으로 상승시킨다.
+
+public static bool IsAdministrator()
+관리자 권한 여부를 파악한다.
+
+public void Update_chating()
+업데이트에 필요한 함수 실행
+
+public void File_Copy()
+프로세스중에 이전 버전의 chating.exe를 찾는다. 만약 이전 버전의 chating.exe가 실행중이지 않을 경우
+chating.exe 를 최신 버전의 파일로 덮어쓴다. chating.exe 찾지 못하면 종료시키고 실행중이면 프로세스
+종료 후 Updaing을 종료.
+
+public void Start_File()
+채팅 프로그램(exe) 실행 후 Updating 폼 종료
+
+private void Updating_Load(object sender, EventArgs e)
+업데이트 함수 실행
+
+// 쓰지 않거나 다른것으로 교체 가능
+public void Re_Name()
+이전 버전의 chating.exe를 chating_old.exe.로 바꾼다.
+
+public void Move_File()
+chating.exe 파일을 다른 곳으로 옮긴다.
+
+public void Folder_Delete(string path)
+폴더 삭제
+
+publc void Delete_File(string path)
+파일 삭제

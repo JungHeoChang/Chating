@@ -1,0 +1,10 @@
+private void Login_button_Click()
+메인 chating 폼을 띄우고 유저 아이디를 보낸다. 로그인 폼은 숨긴다.
+
+private void User_id_TextChanged()
+유저 아이디의 글자 수를 제한한다.
+
+// 쓰지않음
+public void Delete_File()
+
+
