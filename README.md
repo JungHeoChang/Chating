@@ -5,7 +5,7 @@
 사용자는 웹사이트에서 채팅 프로그램을 다운로드 할 수 있습니다.
 <img src="https://user-images.githubusercontent.com/37999695/63084004-28593000-bf85-11e9-9f17-e540a39f19f9.jpg" width="50%">
 
-다운로드 완료<br>
+<font size = 30><b>다운로드 완료<hr width = 100><br></b></font></br>
 <img src="https://user-images.githubusercontent.com/37999695/63084129-6bb39e80-bf85-11e9-9d23-97bf7da3395f.jpg" width="50%"></br>
 
 <br>설치과정</br>
