@@ -75,3 +75,7 @@
 
 <img src="https://user-images.githubusercontent.com/37999695/63138513-cac0f400-c015-11e9-92d7-61d866c7e3dd.jpg" width="50%">
 <img src="https://user-images.githubusercontent.com/37999695/63138515-cbf22100-c015-11e9-930f-d030d8c07d42.jpg" width="50%">
+
+개발환경
+* 클라이언트 - 윈도우환경 c#
+* 서버 - 라즈비안 또는 우분투 c
