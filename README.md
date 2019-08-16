@@ -34,4 +34,20 @@
 <img src="https://user-images.githubusercontent.com/37999695/63087547-69554280-bf8d-11e9-85cb-7027787a8d68.jpg" width="50%">
 <img src="https://user-images.githubusercontent.com/37999695/63138058-df9c8800-c013-11e9-8f0e-4177c92820dc.jpg" width="50%">
 
-부가기능</br>
+프로그램 제거</br>
+<img src="https://user-images.githubusercontent.com/37999695/63138579-022fa080-c016-11e9-988c-4624e9e1514e.jpg" width="50%">
+
+# 부가기능</br>
+컨트롤 + 엔터를 통한 줄 바꿈 지원과 창 크기 변화</br>
+<img src="https://user-images.githubusercontent.com/37999695/63138257-d233cd80-c014-11e9-8b1f-9675c0c77a66.jpg" width="70%">
+<br>설정창</br>
+<img src="https://user-images.githubusercontent.com/37999695/63138311-fabbc780-c014-11e9-8ffc-5f5bd2b6fa1c.jpg" width="20%">
+<br>내문서에 설정 내용 저장</br>
+<img src="https://user-images.githubusercontent.com/37999695/63138326-05765c80-c015-11e9-898e-6b33be728629.jpg" width="50%">
+<br>알림창</br>
+<img src="https://user-images.githubusercontent.com/37999695/63138465-98af9200-c015-11e9-890f-ac8fe757fc42.jpg" width="50%">
+<br>알림창 내용 숨기기</br>
+<img src="https://user-images.githubusercontent.com/37999695/63138466-99e0bf00-c015-11e9-9397-cbcd99c00054.jpg" width="50%">
+<br>트레이 아이콘</br>
+<img src="https://user-images.githubusercontent.com/37999695/63138513-cac0f400-c015-11e9-92d7-61d866c7e3dd.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/37999695/63138515-cbf22100-c015-11e9-930f-d030d8c07d42.jpg" width="50%">
