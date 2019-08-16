@@ -18,9 +18,9 @@
 
 ## <br>업데이트 시</br>
 <img src="https://user-images.githubusercontent.com/37999695/63084553-660a8880-bf86-11e9-8862-40fb4203157b.jpg" width="50%">
-<img src="https://user-images.githubusercontent.com/37999695/63084558-673bb580-bf86-11e9-8a18-042b1fe119b6.jpg" width="50%"><br>
-### 자동으로 웹서버에서 다운로드, 압축해제 후 임시 폴더 생성 최신파일로 옮긴다.</br>
-<img src="https://user-images.githubusercontent.com/37999695/63085277-1a58de80-bf88-11e9-9af2-1f59307c8da2.jpg" width="70%"></br><br>
+<img src="https://user-images.githubusercontent.com/37999695/63084558-673bb580-bf86-11e9-8a18-042b1fe119b6.jpg" width="50%">
+### <br>자동으로 웹서버에서 다운로드, 압축해제 후 임시 폴더 생성 최신파일로 옮긴다.</br>
+<img src="https://user-images.githubusercontent.com/37999695/63085277-1a58de80-bf88-11e9-9af2-1f59307c8da2.jpg" width="70%"><br>
 <img src="https://user-images.githubusercontent.com/37999695/63084562-699e0f80-bf86-11e9-94c2-a8f0ff9a38e9.jpg" width="20%"></br>
 
 ## 로그인</br>
